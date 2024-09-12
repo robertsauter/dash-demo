@@ -72,3 +72,4 @@ def fetch_data_on_user_select(user_id):
         content = [html.P("There are no assignments due.")]
 
     return content
+
